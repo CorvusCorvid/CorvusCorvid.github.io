@@ -8,5 +8,9 @@ Online Profile */
 
 
 .shadowbox {
-    box-shadow: 10px 8px cornflowerblue;
+    box-shadow: 10px 8px #3a3880;
+}
+
+.bg-blue {
+    background-color: #1d1d3b;
 }
